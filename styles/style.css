@@ -1,0 +1,245 @@
+body{
+	background-color: #000;
+}
+.wrapper{
+	background-color: #d2d2d2;
+	max-width: 970px;
+}
+.logo_img{
+	margin: 5% 0 5% 15%;
+}
+address{
+	margin:5% auto 7% auto;
+}
+.phone_number{
+	color: #330033;
+	margin: auto 17% auto auto;
+}
+.phone_number:hover{
+	text-decoration: none;
+}
+.header_info{
+	color: #330033;
+	line-height: 1.1;
+	font-size: 100%;
+}
+.img_social{
+	width:25px;
+	height: auto;
+	margin:0 9px 0 0;
+}
+.links{
+	margin:3% auto;
+	width:87%;
+}
+.header_link{
+	color: #ff3300;
+	margin:0 12% 0 0;
+}
+.header_link:hover, .request:hover{
+	color:#660066;
+	text-decoration: none;
+	border-bottom: 1px dotted #660066;
+	cursor: pointer;
+}
+.request{
+	margin:0;
+}
+.gitara{
+	max-width: 90%;
+	transform: rotate(-10deg);
+}
+.you_is_plane{
+	color:#0000cc;
+	font-size:130%;
+	padding: 4% 0 0 4%;
+}
+.you_is_plane_text{
+	color:#330033;
+	margin: 11% 0 0 8%;
+	font-size: 1rem;
+	line-height: 1.2;
+}
+.realisation{
+	color:#330033;
+	margin: 11% 0 0 8%;
+	font-size: 150%;
+	line-height: 1.4;
+}
+.meropr_78{
+	margin:8% 0 0 0;
+}
+.img_music_1{
+	margin: 0 0 0 3%;
+}
+.realisatio_2{
+	color:#330033;
+	margin:0 0 0 8%;
+	font-size: 140%;
+	line-height: 1.4;
+}
+.realisatio_2_text{
+	color: #330033;
+	margin: 20% 8% 0 8%;
+	font-size: 1rem;
+	line-height: 1.2;
+}
+.to_get_btn{
+	color: #fff;
+	text-transform: uppercase;
+	padding: 2% 0 2% 0;
+	width: 82%;
+	background-color: #3333cc;
+	border-radius: 15px;
+	border: 1px solid red;
+	margin: 18% auto 0 8%;
+}
+.to_get_btn:hover, .price_button:hover{
+	background-color: #660066;
+	border:1px solid #660066;
+	box-shadow:3px 3px 3px #cc66cc;
+	transition-duration: .2s;
+}
+.reasons{
+	margin:8% 0 0 0;
+}
+.realisation_3{
+	color:#330033;
+	font-size: 110%;	
+}
+.res_head{
+	margin:0 0 11% 0;
+}
+.res_1, .res_2, .res_3{
+	line-height: 1.1;
+	font-size: 85%;
+}
+.res_1, .res_2{
+	width:49%;
+	display:inline-block;
+	height: auto;
+}
+
+.res_2{
+	float:right;
+}
+.res_3{
+	margin:1% 0 0 0;
+}
+.last_meropr_header{
+	margin: 5% 0 5% 0;
+	text-align: center;
+	color:#330033;
+	font-size: 140%;
+	line-height: 1.4;
+}
+.carusel_meropr{
+	margin:0 2% 0 2%;
+}
+.butt_all_meropr{
+	margin: 2% 0 2% 0;
+}
+.all_meropr, .all_rewiews{
+	margin:0 auto;
+	background-color: #f7b284;
+	border:1px solid #000;
+	border-radius: 5px;
+	text-transform: uppercase;
+	width:30%;
+}
+.all_meropr:hover, .all_rewiews:hover{
+	background-color: #00b9ee;
+	box-shadow: 1px 1px 3px 4px #d298d2;
+	border:1px solid #00b9ee;
+	transition-duration: .2s;
+}
+.rewiew_header{
+	text-align: center;
+	color: #330033;
+	font-size: 120%;
+	line-height: 1.4;
+}
+.rewiew_block{
+	margin:5% 0 0 0;
+}
+.foto_rewiews_left{
+	text-align: right;
+}
+.foto_rewiews_right{
+	text-align: left;
+}
+.rew_man{
+	max-width: 60%;
+	max-height: 100%;
+}
+
+.citate_text{
+	font-style:italic;
+	font-size:70%;
+	line-height: 1.3;
+	color:#330033;
+}
+.rewiev_man_name{
+	color:#990066;
+	margin: -2% 0 2% 0;
+}
+.price{
+	margin:5% 0;
+}
+.price_header{
+	text-align: center;
+	color: #330033;
+	font-size: 130%;
+	line-height: 1.4;
+	text-transform: uppercase;
+}
+.price_text{
+	font-size:70%;
+	line-height: 1.3;
+	color:#330033;
+	margin:8% 0 0 0;
+}
+.price_button{
+	color: #fff;
+	text-transform: uppercase;
+	padding: 2% 0 2% 0;
+	width: 82%;
+	background-color: #3333cc;
+	border-radius: 15px;
+	border: 1px solid red;
+	margin: 14% auto 0 8%;
+}
+.company_partners_block{
+	margin:5% 0 10% 0;
+}
+.img_logo_partners{
+	vertical-align: middle;
+}
+.footer{
+	background-color: #666666;
+	padding:2% 0 0 0;
+}
+.footer_link{
+	font-size: 80%;
+	display:block;
+	color: #99ffff;
+}
+.request_2:hover, .footer_link:hover{
+	color:#ff3300;
+	text-decoration: none;
+	border-bottom: 1px dotted #ff3300;
+	cursor:pointer;
+}
+.img_social_footer{
+	width: 20px;
+	height: auto;
+	margin: 0 9px 0 0;
+}
+.footer_info{
+	color:#ffccff;
+	font-size: 80%;
+}
+.phone_number_footer{
+	color:#ffccff;
+	font-size: 80%;
+}
